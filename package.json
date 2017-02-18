@@ -1,0 +1,17 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "timestamp service",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "timestamp"
+  ],
+  "author": "margorp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
